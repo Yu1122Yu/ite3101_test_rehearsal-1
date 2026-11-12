@@ -4,6 +4,7 @@ def main():
     if x > 5:
         y = y + 7
     if x > 4:
+        y = y 
     # Remove pass with your answer.
     pass
  
