@@ -3,7 +3,7 @@ def main():
     y = 8
     if x > 5:
         y = y + 7
-    if x > 3:
+    if x > 4:
     # Remove pass with your answer.
     pass
  
