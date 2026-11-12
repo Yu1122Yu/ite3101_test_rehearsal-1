@@ -1,7 +1,7 @@
 def main():
     while True:
         try:
-            num = int(input)
+            num = int(input("Type an in"))
    
    
  if __name__ == "__main__":
