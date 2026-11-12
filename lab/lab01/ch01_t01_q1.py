@@ -2,6 +2,8 @@ def main():
     while True:
         try:
             num = int(input("Type an integer:"))
+            break
+        
    
    
  if __name__ == "__main__":
