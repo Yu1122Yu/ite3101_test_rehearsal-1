@@ -1,5 +1,7 @@
 def main():
-    while Truw\
+    while True:
+        try:
+            num = int(input)
    
    
  if __name__ == "__main__":
