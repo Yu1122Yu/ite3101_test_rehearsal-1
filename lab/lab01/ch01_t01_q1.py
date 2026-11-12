@@ -8,8 +8,7 @@ def main():
     if x > 3:
         y = y + 6
     print(y)
-    # Remove pass with your answer.
-    pass
+   
  
 
 if __name__ == "__main__":
