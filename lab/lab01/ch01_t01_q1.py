@@ -1,4 +1,6 @@
-def main()
+def main():
+    x = 9
+    y =
     # Remove pass with your answer.
     pass
  
