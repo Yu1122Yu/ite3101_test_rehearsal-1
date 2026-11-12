@@ -3,7 +3,8 @@ def main():
         try:
             num = int(input("Type an integer:"))
             break
-        
+        except ValueError:
+            print('Please enter an inreger.')
    
    
  if __name__ == "__main__":
