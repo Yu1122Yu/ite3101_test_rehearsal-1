@@ -5,7 +5,7 @@ def main():
             break
         except ValueError:
             print('Please enter an inreger.')
-        i
+        if num 
    
    
  if __name__ == "__main__":
