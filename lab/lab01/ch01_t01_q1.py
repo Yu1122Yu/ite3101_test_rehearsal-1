@@ -9,7 +9,8 @@ def main():
            print(f{num} is divisiable by 10 and not divisible by 3.)
                  
         else:
-            
+             print(f{num} is divisiable by 10 and not divisible by 3.)
+
    
  if __name__ == "__main__":
     # execute only if run as a script
