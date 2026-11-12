@@ -6,7 +6,7 @@ def main():
         except ValueError:
             print('Please enter an inreger.')
         if num % 10== 0 and num % 3 != 0:
-           print(f'{num} is divisiable by 10 and not divisible by 3.)
+           print()'{num} is divisiable by 10 and not divisible by 3.)
                  
    
    
