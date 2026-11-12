@@ -7,7 +7,7 @@ def main():
         y = y + 6
     if x > 3:
         y = y + 6
-        
+    print(y)
     # Remove pass with your answer.
     pass
  
