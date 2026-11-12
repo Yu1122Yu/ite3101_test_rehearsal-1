@@ -9,8 +9,6 @@ def main():
         y = y + 6
     print(y)
    
- 
-
-if __name__ == "__main__":
+ if __name__ == "__main__":
     # execute only if run as a script
     main()
