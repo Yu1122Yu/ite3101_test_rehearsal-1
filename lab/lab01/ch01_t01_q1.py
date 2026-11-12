@@ -1,6 +1,7 @@
 def main():
     x = 9
-    y =
+    y = 8
+    if x
     # Remove pass with your answer.
     pass
  
